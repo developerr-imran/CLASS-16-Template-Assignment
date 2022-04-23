@@ -1,0 +1,134 @@
+
+
+/* NAV SECTION START */
+
+.navebar{
+    background-color: #101446;
+}
+
+.navebar .nav-logo{
+    width: 120px;
+}
+
+.navebar .nav-logo img{
+    max-width: 100%;
+}
+
+.navebar .nav-menu{}
+
+.navebar .nav-menu ul {
+    text-align: right;
+    margin: 0;
+  }
+
+  .navebar .nav-menu ul li {
+    display: inline-block;
+    list-style: none;
+  }
+
+  .navebar .nav-menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    line-height: 76px;
+    padding: 10px 15px;
+  }
+/* NAV SECTION END */
+
+
+/* BANNER SECTION START */
+
+.banner-section {
+    background-image: url(./All\ Images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding-top: 424px;
+    padding-bottom: 130px;
+  }
+
+    
+    
+
+/* BANNER SECTION END */
+
+
+/* OUR SELF SECTION START */
+
+.self-team{
+    background-color: #BAC1F3;
+}
+/* OUR SELF SECTION END */
+
+
+/* ABOUT SECTION START */
+
+.about-section{
+    background-color: #C2D4EA;
+}
+
+.about-image{
+    width: 100px;
+}
+
+.about-image img{}
+
+.about-header h2 {
+    margin-top: 20px;
+  }
+
+.about-list{}
+
+.about-list ul li{
+    list-style: none;
+}
+
+.about-list ul {
+    margin-top: 30px;
+    text-align: left;
+  }
+
+  .inner-about {
+    margin-top: -15px;
+  }
+
+  .inner-about p {
+    text-align: left;
+    margin-left: 47px;
+  }
+
+  .about-header h3 {
+    font-size: 25px;
+    text-align: left;
+    margin-left: 46px;
+  }
+
+  .about-header h3 {
+    font-size: 25px;
+    text-align: left;
+  }
+
+  .inner-image-about p {
+    margin-top: 49px;
+    text-align: left;
+  }
+
+/* ABOUT SECTION END */
+
+
+/* CONTACT SECTION START */
+
+.contact-section{
+    background-color: #F5F5F5;
+}
+/* CONTACT SECTION END */
+
+
+/* FOOTER SECTION START */
+.footer{
+    background-color: #0062D3;
+}
+
+.footer span{
+    font-weight: bolder;
+}
+/* FOOTER SECTION END */
